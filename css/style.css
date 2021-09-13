@@ -3,10 +3,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-
 .yellow{
   color:#f9ca24;
 }
+
 .search-field {
   border: none;
   border-radius: 5px;
@@ -51,6 +51,7 @@ body {
   border-radius: 10px;
   /* border: 1px solid rgb(2, 109, 109); */
 }
+
 .product-image {
   width: 150px;
   height: 150px;
@@ -67,6 +68,7 @@ body {
 .cart-main {
   padding-right: 30px;
 }
+
 @media only screen and (max-width: 768px) {
   #all-products {
     display: grid;
